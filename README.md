@@ -1,16 +1,13 @@
-# hello
+# 欢迎使用 校园集市 APP
 
-A new Flutter project.
+本应用是 校园集市 web 应用的 Flutter 重置
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 如何使用？
+1. 点击 [Flutter 官网教程](https://docs.flutter.dev/get-started/install)，根据 Flutter 官网教程部署 Flutter 框架
+2. 编译可执行文件
+   ##### Android 应用部署
+    1.  部署 JDK
+    2. 启用 Android 支持
+       ```flutter config ----enable-android```
+    3. 编译可执行文件
+       ```flutter build apk```
