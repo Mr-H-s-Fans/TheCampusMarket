@@ -20,3 +20,6 @@
     3. 编译可执行文件
        ```flutter build apk```
 ## 运行截图
+![校园集市](https://github.com/Mr-H-s-Fans/TheCampusMarket/blob/main/doc/s1.jpg)
+![搜索](https://github.com/Mr-H-s-Fans/TheCampusMarket/blob/main/doc/s1.jpg)
+![个人信息](https://github.com/Mr-H-s-Fans/TheCampusMarket/blob/main/doc/s3.jpg)
