@@ -1,6 +1,7 @@
 # 欢迎使用 校园集市 APP
 
-## 本应用是 校园集市 web 应用的 Flutter 重置
+本应用是 校园集市 web 应用的 Flutter 重置
+仓库链接：https://github.com/Mr-H-s-Fans/
 
 ## 功能介绍
 ### 集市功能
