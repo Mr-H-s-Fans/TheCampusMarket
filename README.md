@@ -20,6 +20,3 @@
     3. 编译可执行文件
        ```flutter build apk```
 ## 运行截图
-![Screenshot_20220108_225018_com example hello](https://user-images.githubusercontent.com/68538794/148648707-08531df8-2fda-4e3b-b914-ca4860ef5333.jpg)
-![Screenshot_20220108_225014_com example hello](https://user-images.githubusercontent.com/68538794/148648729-edcd58ff-1218-4d01-a2c3-e9a6783ec7e8.jpg)
-![Screenshot_20220108_225009_com example hello](https://user-images.githubusercontent.com/68538794/148648763-32deee10-5bed-4fdd-9057-91250bd40793.jpg)
